@@ -1,4 +1,4 @@
-(?-s)([\ ?|\r|\<]+|^)[o|O](\S)*@(\S)*\.(\S)*
+([\ ?|\r|\<]+|^)[o|O](\S)*@(\S)*\.(\S)*
 34
 To: outlook.team@enron.com
 To: outlook.team@enron.com
